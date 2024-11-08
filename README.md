@@ -19,7 +19,7 @@
   <a href="https://blog.yoursai.app">Blog</a> - <a href="https://form.yoursai.app/waitlist">Waitlist</a> - <a href="https://yoursai.app">Web App (WIP)</a> 
 </p>
 
-(WIP) Modern, customizable AI companion frontend for enthusiasts. (Inspired by SillyTavern)
+[(Development suspended)](https://blog.yoursai.app/yoursai-develop-stop/) Modern, customizable AI companion frontend for enthusiasts. (Inspired by SillyTavern)
 
 </div>
 
@@ -53,10 +53,6 @@ YoursAI aims to offer a sleek and responsive user experience akin to a commercia
 - This project is operated by the Pygmalion team, a startup based in Seoul, South Korea.
   - The Pygmalion team is aiming to create an intensely immersive(!) AI companion.
   - If you share the same vision, feel free to send your resume via email ([contact@yoursai.app](mailto:contact@yoursai.app)) and apply!
-  
-## Recent News
-
-- [YoursAI is Open](https://blog.yoursai.app/yoursai-first-post/) - October 14, 2024 [@narayo9](https://github.com/narayo9)
 
 
 ## License

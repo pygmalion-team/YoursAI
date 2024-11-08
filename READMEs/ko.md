@@ -21,7 +21,7 @@
   <a href="https://blog.yoursai.app">블로그</a> - <a href="https://form.yoursai.app/waitlist">사전 예약</a> - <a href="https://yoursai.app">웹 앱 접속 (WIP)</a> 
 </p>
 
-(개발중) AI 채팅 팬들을 위한 모던한 커스텀 AI 채팅 프론트엔드. (SillyTavern의 영향을 받음)
+[(개발 중단)](https://blog.yoursai.app/yoursai-develop-stop/) AI 채팅 팬들을 위한 모던한 커스텀 AI 채팅 프론트엔드. (SillyTavern의 영향을 받음)
 
 </div>
 
@@ -55,11 +55,6 @@ YoursAI는 완전 커스텀 가능한 기존 프로젝트들의 장점을 유지
 - 이 프로젝트는 서울에 위치한 한국 스타트업 피그말리온팀이 운영하고 있습니다.
   - 피그말리온팀은 과몰입(!) AI 연인을 만드는 것을 목표로 하는 팀입니다.
   - 같은 꿈을 꾸고 싶으시다면 자유 형태의 이력서와 함께 이메일([contact@yoursai.app](mailto:contact@yoursai.app))로 지원주세요!
-
-## 최근 소식
-
-- [YoursAI 정상 영업합니다](https://blog.yoursai.app/yoursai-first-post/) - 10월 14일, 2024 [@narayo9](https://github.com/narayo9)
-
 
 ## License
 
